@@ -1,9 +1,9 @@
-# Quiz elaborado por joaoarthurbm
+# Quiz elaborado por magao02
 {{% quiz test_quiz%}}
-{{< item question="Qual operação abaixo não pode ser considerada primitiva?" answers="2" choices="int a = 7,Arrays.sort(v),v[7], return saldo" >}}
+{{< item question="Qual caso ultilizar se o algoritmo tiver condicionais?" answers="1" choices = "pior caso,caso intermediário, melhor caso" >}}
 {{% /quiz %}}
 
-# Quiz elaborado por juniorjse
+# Quiz elaborado por magao02
 {{% quiz test_quiz%}}
-{{< item question="Tendo como referência o gráfico acima, qual algoritmo possui o melhor desempenho para as entradas maiores?" answers="1" choices="MergeSort,InsertionSort,QuickSort,SelectionSort" >}}
+{{< item question="O que quer dizer análise de algoritmos?" answers="1" choices="procurar erros no algoritmo,prever a quantidade de recursos que tal algoritmo consome ao ser executado, procurar formas de deixar o código limpo" >}}
 {{% /quiz %}}
